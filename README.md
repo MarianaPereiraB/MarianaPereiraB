@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarianaPereiraB&show_icons=true&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPereiraB&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarianaPereiraB&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPereiraB&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
