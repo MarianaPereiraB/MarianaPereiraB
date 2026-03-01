@@ -37,16 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarianaPereiraB&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarianaPereiraB&layout=compact&theme=radical"/>
-</p>
-
-
----
-
 ##  Contribution Snake
 
 <p align="center">
