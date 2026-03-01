@@ -9,11 +9,10 @@
 
 ## 👩🏻‍💻 About Me
 
-Undergraduate in Systems Analysis and Development at UNINASSAU  
 Backend Developer in training  
-Building systems with Java, SQL and API architecture  
-Exploring Front-End to become a complete Full Stack Developer  
-Passionate about solving real-world problems through technology
+Building scalable systems with Java, SQL and API architecture  
+Focused on Cybersecurity and secure application design  
+Exploring Front-End to become a complete Full Stack Developer
 
 ---
 
