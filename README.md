@@ -9,10 +9,11 @@
 
 ## 👩🏻‍💻 About Me
 
- Focused on Backend Development  
- Currently studying Java, SQL and API architecture  
- Passionate about building real-world systems  
- Future Full Stack Developer  
+Undergraduate in Systems Analysis and Development at UNINASSAU  
+Backend Developer in training  
+Building systems with Java, SQL and API architecture  
+Exploring Front-End to become a complete Full Stack Developer  
+Passionate about solving real-world problems through technology
 
 ---
 
@@ -51,6 +52,11 @@
 ✔ Contribute to open source  
 
 ---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marianapereirabarros-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marianapereirabarros)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:marianapereirab2002@gmail.com)
 
 <p align="center">
    "Consistency builds mastery."
