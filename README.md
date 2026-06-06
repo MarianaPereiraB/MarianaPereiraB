@@ -1,19 +1,23 @@
-<h1 align="center"> Mariana Pereira </h1>
-<h3 align="center">Backend Developer | ADS Student |Recife - PE</h3>
+<h1 align="center">Mariana Pereira</h1>
+<h3 align="center">Backend Developer | ADS Student | Recife, PE</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7A3E9D&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+in+Progress...;Backend+Focused+Developer;Building+APIs+and+Systems;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7A3E9D&size=25&center=true&vCenter=true&width=600&lines=ADS+Student+via+Embarque+Digital;Backend+Focused+Developer;Building+APIs+and+Systems;Always+Learning+🚀">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MarianaPereiraB&color=7A3E9D&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-ADS student via **Embarque Digital** (UNIT · Recife, PE)
-Backend Developer in training
-Building scalable systems with Java, SQL and API architecture
-Focused on Cybersecurity and secure application design
-Exploring Front-End to become a complete Full Stack Developer
+Studying **Análise e Desenvolvimento de Sistemas** through **Embarque Digital** at UNIT · Recife, PE  
+Building scalable systems with Java, SQL and API architecture  
+Focused on Cybersecurity and secure application design  
+Design background that shapes how I think about UX and systems  
+Exploring Front-End to become a complete Full Stack Developer  
 
 ---
 
@@ -41,18 +45,47 @@ Exploring Front-End to become a complete Full Stack Developer
 
 ---
 
-##  Contribution Snake
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarianaPereiraB&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaPereiraB&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MarianaPereiraB&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarianaPereiraB&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarianaPereiraB/MarianaPereiraB/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🌟 Current Goals
+---
 
-✔ Build real backend projects  
-✔ Create scalable APIs  
-✔ Improve database modeling  
-✔ Contribute to open source  
+## 📁 Projects
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [PsiWiki](https://github.com/MarianaPereiraB) | Enciclopédia web de psicólogos com consumo de API | Vue.js · JavaScript · API REST |
+| [CRUD Java ](https://github.com/MarianaPereiraB) | Sistema de cadastro com Java  | Java|
+
+
+---
+
+## 🌟 Currently
+
+- ✅ Building real backend projects  
+- ✅ CRUD with Java + MySQL (UNIT)  
+- 🔄 Learning API security  
+- 🔄 Contributing to open source  
 
 ---
 
@@ -61,6 +94,6 @@ Exploring Front-End to become a complete Full Stack Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marianapereirabarros-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marianapereirabarros)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:marianapereirab2002@gmail.com)
 
-<p align="center">
-   "Consistency builds mastery."
-</p>
+---
+
+<p align="center"><i>"Consistency builds mastery."</i></p>
